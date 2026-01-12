@@ -36,7 +36,8 @@ This project is developed using **Google AI Studio**. The source code is maintai
 
 > Note: The application is developed in Google AI Studio and the source code is stored in a separate GitHub repository. Please refer to the link above for the actual implementation.
 
-### Live Demo [https://ai-photofun-842124311944.us-west1.run.app/]
+### Live Demo 
+[https://ai-photofun-842124311944.us-west1.run.app/]
 
 ## Course Information
 
