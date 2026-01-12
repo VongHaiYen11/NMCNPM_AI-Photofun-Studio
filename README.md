@@ -44,4 +44,4 @@ This project is developed using **Google AI Studio**. The source code is maintai
 
 ## License
 
-This project is developed for educational purposes as part of the Software Engineering course.
+This project is developed for educational purposes as part of the Introduction to Software Engineering course.
